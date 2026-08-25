@@ -1,4 +1,5 @@
 # HR Risk & Workforce Turnover Overview
+![image alt](https://github.com/AnkitaSarkar-98/HR-Risk-Workforce-Turnover-Power-BI/blob/main/HR%20Analytics-Power%20BI%20Dashboard.png?raw=true)
 
 ## Overview
 The **HR Risk & Workforce Turnover Overview** is an interactive analytical dashboard designed to provide actionable insights into employee retention, turnover trends, and workplace risk factors. By tracking key metrics such as monthly income, active employee counts, and attrition rates across demographic and departmental segments, this dashboard helps HR teams and leaders identify high-risk roles and develop targeted retention strategies.
